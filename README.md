@@ -1,2 +1,2 @@
 # Ciphers-and-Cryptography
-Cheat sheet and other stuff
+Cheat sheets and other stuff
